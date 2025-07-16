@@ -1,0 +1,7 @@
+user_id,product_id,timestamp
+u001,productA,2025-07-10T10:00:00
+u001,productX,2025-07-10T11:00:00
+u002,productC,2025-07-10T11:30:00
+u002,productY,2025-07-10T12:00:00
+u003,productD,2025-07-10T13:00:00
+u004,productZ,2025-07-10T14:00:00
