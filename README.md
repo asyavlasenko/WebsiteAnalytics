@@ -8,6 +8,4 @@ This is a simple console application written in C++ that reads two CSV files rep
 
 ```plaintext
 g++ -std=c++11 -o website main.cpp
-
 ./website
-# WebsiteAnalytics
